@@ -1,2 +1,2 @@
-# AdvProg1
-Zadanie 1 z programowania zaawansowanego WSB sem. IV
+# AdvProg
+Zadania z programowania zaawansowanego WSB sem. IV
